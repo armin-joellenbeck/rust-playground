@@ -1,3 +1,6 @@
 [workspace]
 resolver = "2"
 members = ["hello-world"]
+
+[workspace.metadata.bin]
+mdbook = { version = "0.4.40" }
