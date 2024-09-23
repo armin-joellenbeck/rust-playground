@@ -1,1 +1,1 @@
-# rust-playground
+# Armin Jöllenbeck's Rust playground
