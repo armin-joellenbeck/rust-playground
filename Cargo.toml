@@ -4,3 +4,4 @@ members = ["hello-world"]
 
 [workspace.metadata.bin]
 mdbook = { version = "0.4.40" }
+bacon = { version = "2.21.0" }
